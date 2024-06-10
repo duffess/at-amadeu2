@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: GilroyLight;
+    src: url(../assets/fonts/Gilroy-Light.otf);
+}
+
+@font-face {
+    font-family: GilroyBold;
+    src: url(../assets/fonts/Gilroy-ExtraBold.otf);
+}
+
+@font-face {
+    font-family: HovesBold;
+    src: url(../assets/fonts/TT\ Hoves\ Pro\ Trial\ Bold.ttf);
+}
+
+@font-face {
+    font-family: HovesMedium;
+    src: url(../assets/fonts/TT\ Hoves\ Pro\ Trial\ Medium.ttf);
+}
+
+.Footer{
+    width: 100vw;
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    background-image: url('../assets/imgs/Noise2.png');
+    background-size: contain;
+    background-color: #071341 !important;
+    /* border: 2px solid black; */
+}

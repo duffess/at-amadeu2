@@ -1,0 +1,34 @@
+https://tp6projetobloco.guilhermeduffes.repl.co/ - primeiro projeto
+
+https://snack.expo.dev/@duffes/bankingapp - segundo projeto
+
+https://snack.expo.dev/@duffes/cadastroprodutos---at03 - terceiro projeto
+
+https://snack.expo.dev/@duffes/app-cv---at02 - quarto projeto
+
+https://snack.expo.dev/@duffes/movies---at01 - quinto projeto
+
+/* Dispositivos móveis */
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  /* Estilos para dispositivos móveis */
+}
+
+/* iPads, tablets */
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  /* Estilos para iPads e tablets */
+}
+
+/* Telas pequenas, laptops */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  /* Estilos para telas pequenas e laptops */
+}
+
+/* Desktops, telas grandes */
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+  /* Estilos para desktops e telas grandes */
+}
+
+/* Telas muito grandes, TVs */
+@media screen and (min-width: 1201px) {
+  /* Estilos para telas muito grandes e TVs */
+}

@@ -1,0 +1,27 @@
+1. Desenvolva um webapp para resenha de livros e publique-o na internet (sugestão: 000webhost). Acompanhe os seguintes requisitos de negócio para este projeto:
+    a. Página Inicial:
+        i. Inclua um logotipo e sugira um nome para a aplicação. ( COMPLETO )
+        ii. Adicione uma caixa de texto onde o usuário possa digitar o nome de um livro ou parte dele. ( COMPLETO )
+    b. Funcionalidades:
+        i. Caso haja uma resenha disponível para o livro pesquisado, a tela seguinte exibirá:
+        Capa do livro;
+        Nome do livro;
+        Resenha;
+        Nome do usuário que fez a resenha;
+        E-mail de contato do usuário que fez a resenha.
+
+    c. Resenha:
+        Caso não haja uma resenha disponível, o usuário será convidado a fornecer uma resenha. Para isso, ele deverá fornecer os seguintes parâmetros:
+        Nome do livro;
+        Caminho para a capa do livro (URL da imagem);
+        Resenha;
+        Nome do usuário;
+        E-mail de contato do usuário.
+
+        ii. O botão "Inserir Resenha" estará disponível tanto na tela inicial quanto na tela de resultados de pesquisa.
+        iii. Não será possível inserir uma resenha caso haja qualquer campo vazio.
+        iv. Não será permitido mais de uma resenha para o mesmo livro.
+
+    d. Banco de dados:
+        i. O banco de dados utilizado será o SQL (MariaDB, MySQL, SQLite etc).
+        Certifique-se de que o webapp seja intuitivo e fácil de usar, incentivando os usuários a contribuírem com novas resenhas e a encontrarem informações sobre os livros que procuram.
