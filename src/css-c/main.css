@@ -14,6 +14,16 @@
     src: url(../assets/fonts/Gilroy-ExtraBold.otf);
 }
 
+.reviews-list{
+    width: 500px;
+    color: white;
+    font-weight: bold;
+}
+
+.review-item{
+    width: 400px;
+}
+
 .main {
     background-image: url(../assets/imgs/AdobeStock_340078556_Preview.png);
     background-size: cover;
@@ -76,6 +86,10 @@ input[type='text'] {
     justify-content: center ;
     letter-spacing: 15px;
     width: 100%;
+}
+
+.Link{
+    width: 400px;
 }
 
 .button{
